@@ -1,0 +1,18 @@
+{
+  "name": "sr-tech-works",
+  "version": "1.0.0",
+  "description": "SR TECH WORKS - Premium 3D Business Website & Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sr-tech-works",
+    "webgl",
+    "threejs",
+    "business-website",
+    "agency"
+  ],
+  "author": "SR TECH WORKS",
+  "license": "ISC"
+}
